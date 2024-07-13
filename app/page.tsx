@@ -20,11 +20,14 @@ export default function Home() {
             className="w-full h-full object-cover absolute"
           />
           <div className="flex sm:flex-row flex-col-reverse items-start sm:items-end gap-6 xl:gap-0 sm:justify-between w-full relative h-full">
-            <button className="border-2 font-bebas pt-1 text-white hover:bg-white hover:text-black text-lg duration-300 border-white rounded-full px-9  mb-4">
+            <Link
+              href={"/works"}
+              className="border-2 font-bebas pt-1 text-white hover:bg-white hover:text-black text-lg duration-300 border-white rounded-full px-9  mb-4"
+            >
               Explore
-            </button>
+            </Link>
             <div className="flex flex-col  ">
-              <h1 className="font-bebas font-bold text-white text-2xl  sm:text-3xl leading-none">
+              <h1 className="font-bebas font-bold text-white text-5xl  sm:text-3xl leading-none">
                 Your Imagination. Fully Displayed
               </h1>
               <p className=" text-white text-lg">

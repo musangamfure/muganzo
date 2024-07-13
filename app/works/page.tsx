@@ -16,11 +16,11 @@ const WorksPage = () => {
     <React.Fragment>
       <section
         id="section"
-        className="py-24 overflow-hidden sm:py-24 sm:h-screen sm:max-h-screen relative w-full justify-center flex items-center bg-black"
+        className="pt-24 pb-0 overflow-hidden sm:py-24 sm:h-screen sm:max-h-screen relative w-full justify-center flex items-center bg-black"
       >
         <div id="container" className=" px-6 sm:px-24 w-full h-full">
           <h1 className="text-white text-6xl font-bebas">{Hero.heading}</h1>
-          <div className="w-full h-full aspect-video flex flex-col">
+          <div className="w-full h-[600px] sm:h-full flex flex-col">
             <span className="text-md block italic font-bold text-white">
               {Hero.tagline}
             </span>
