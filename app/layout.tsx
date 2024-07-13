@@ -53,7 +53,7 @@ export default function RootLayout({
         />
         <meta
           property="og:description"
-          content="Best woodworking and interior design services in Rwanda, specializing in custom furniture and home decor."
+          content="Best woodworking and interior design services in Rwanda, specializing in custom wood  furnitures and home interiors."
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://muganzo.vercel.app" />
