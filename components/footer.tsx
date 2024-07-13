@@ -10,7 +10,7 @@ const FooterComponent = () => {
       >
         <div className="w-full h-full justify-center items-center flex flex-col mb-6 sm:mb-0">
           <p className="font-bebas leading-none text-white text-[12vw] ">
-            Let's talk{" "}
+            Let&apos;s talk{" "}
           </p>
           <ul className="flex justify-center sm:flex-row items-center sm:gap-6">
             <li className="flex gap-3 border-2 border-white hover:bg-white text-white hover:text-black duration-300 mx-3 rounded-full px-3 py-1">

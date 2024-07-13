@@ -49,7 +49,7 @@ export default function Home() {
                 Our design approach and our cutting-edge manufacturing capacity
                 allow us to bring prestigious architectural projects to life
                 with superior efficiency, from your first consultation to the
-                project's final installation
+                project&apos;s final installation
               </p>
             </div>
 
