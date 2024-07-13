@@ -1,0 +1,20 @@
+{
+  "Gallery": {
+    "imageUrls": [
+      { "url": "/assets/images/picture1.jpg" },
+      { "url": "/assets/images/picture2.jpg" },
+      { "url": "/assets/images/picture3.jpg" },
+      { "url": "/assets/images/picture4.jpg" },
+      { "url": "/assets/images/picture5.jpg" },
+      { "url": "/assets/images/picture6.jpg" },
+      { "url": "/assets/images/picture7.jpg" },
+      { "url": "/assets/images/picture8.jpg" },
+      { "url": "/assets/images/picture9.jpg" },
+      { "url": "/assets/images/picture10.jpg" },
+      { "url": "/assets/images/picture11.jpg" },
+      { "url": "/assets/images/chair2.jpg" },
+      { "url": "/assets/images/chair3.jpg" },
+      { "url": "/assets/images/picture12.jpg" }
+    ]
+  }
+}

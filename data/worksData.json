@@ -1,0 +1,46 @@
+{
+  "Hero": {
+    "heading": "Welcome to Our Works",
+    "tagline": "Crafting excellence in every project",
+    "heroImages": [
+      { "url": "/assets/images/hero-image.png" },
+      { "url": "/assets/images/chair3.jpg" }
+    ]
+  },
+  "Content": [
+    {
+      "projectname": "Interior Design",
+      "location": "Musanze",
+      "url": "/",
+      "imageUrls": [
+        { "url": "/assets/images/picture3.jpg" },
+        { "url": "/assets/images/picture4.jpg" },
+        { "url": "/assets/images/chair1.jpg" },
+        { "url": "/assets/images/chair2.jpg" },
+        { "url": "/assets/images/chair3.jpg" },
+        { "url": "/assets/images/chair4.jpg" }
+      ],
+      "excerpt": "This is a brief description of Project One.",
+      "tagline": "Innovation at its best"
+    },
+    {
+      "projectname": "Furnitures",
+      "location": "Kigali & Musanze",
+      "url": "/",
+      "imageUrls": [
+        { "url": "/assets/images/picture1.jpg" },
+        { "url": "/assets/images/picture2.jpg" },
+        { "url": "/assets/images/picture5.jpg" },
+        { "url": "/assets/images/picture6.jpg" },
+        { "url": "/assets/images/picture8.jpg" },
+        { "url": "/assets/images/picture10.jpg" }
+      ],
+      "excerpt": "This is a brief description of Project Two.",
+      "tagline": "Creativity unleashed"
+    }
+  ],
+  "CallToAction": {
+    "title": "Get Involved with Our Projects",
+    "label": "Contact Us"
+  }
+}
