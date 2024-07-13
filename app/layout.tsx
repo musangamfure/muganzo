@@ -49,7 +49,7 @@ export default function RootLayout({
         <link rel="canonical" href="https://muganzo.vercel.app" />
         <meta
           property="og:title"
-          content="Muganzo Interior Design. Best Woodworking Services in Rwanda"
+          content="Muganzo Interior Design Ltd. Best Woodworking Services in Rwanda"
         />
         <meta
           property="og:description"
